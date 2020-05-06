@@ -1,0 +1,155 @@
+
+.ocnova{
+display: flex;
+flex-direction: column;
+padding: 20px;
+width: 400px;
+height: 448px;
+background: #9C9C9C;
+border: 2px solid #626262;
+box-sizing: border-box;
+border-radius: 3px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+}
+
+h1 {
+
+width: 360px;
+height: 38px;
+left: 20px;
+top: 20px;
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+color: #000000;
+margin: 0px
+
+}
+
+svg {
+    position: absolute;
+left: 8px;
+top: 78px;
+bottom: 0px;
+    background: #C4C4C4;
+
+}
+
+.svgg {
+    position: absolute;
+left: 8px;
+top: 360px;
+bottom: 0px;
+    background: #C4C4C4;
+
+}
+
+
+
+
+.form_button {
+
+flex-direction: column;
+padding: 8px 12px;
+
+position: absolute;
+width: 95px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+background: #616161;
+border: 1px solid #616161;
+box-sizing: border-box;
+border-radius: 3px;
+color: #CCCCCC;
+margin-top: 396px;
+margin-left: 20px;
+margin-right: 285px;
+
+}
+
+
+.form_button2 {
+display: flex;
+flex-direction: column;
+padding: 8px 12px;
+
+position: inherit;
+width: 74px;
+height: 32px;
+margin-left: 290px;
+    margin-top: 326px;
+
+background: #CCCCCC;
+border: 1px solid #CCCCCC;
+box-sizing: border-box;
+border-radius: 3px;
+
+
+}
+
+
+
+.password {
+position: absolute;
+top: 168px;
+
+
+
+}
+
+.email {
+position: absolute;
+top: 99px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+margin-left: 0px;
+
+}
+
+.fio {
+position: absolute;
+order: 4;
+margin: 200px 0px;
+}
+
+
+.age {
+position: absolute;
+margin: 250px 0px;
+
+}
+
+.fort_inn {
+width: 360px;
+height: 28px;
+background: #FFFFFF;
+border: 1px solid #9C9C9C;
+box-sizing: border-box;
+border-radius: 3px;
+
+}
+
+
+.fort_mini {
+width: 175px;
+height: 28px;
+background: #FFFFFF;
+border: 1px solid #9C9C9C;
+box-sizing: border-box;
+border-radius: 3px;
+
+
+}
+
+.esheraz {
+    position: absolute;
+    margin: -20px 0px;
+
+}
